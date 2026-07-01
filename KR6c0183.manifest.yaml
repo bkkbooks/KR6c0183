@@ -1,0 +1,63 @@
+canonical_identifier: bkk:krp/KR6c0183/v1
+canonical_location: https://kanripo.org/bkk/KR6c0183/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 般若心經註疏
+  identifiers:
+    alt_id:
+    - X26n0564
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0564.xml
+    old_id: X26n0564
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0183_000.yaml, hash: 'sha256:8a4d2915e29b248ad7ff860bafb36872e6d31c5e1e154c7703dd54bfc5075aea'}
+  - {seq: 1, filename: KR6c0183_001.yaml, hash: 'sha256:a8917c7ecd4e1696689ac4be2c698f4ce4c9c6806a38a27f735f94c26bd175e1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0183_000.markers.yaml, hash: 'sha256:c182592cfc183e24eaa0d46a20dc62698e6f6f5175f9456575213c96f18da52c'}
+  - {seq: 1, role: markers, filename: assets/KR6c0183_001.markers.yaml, hash: 'sha256:df6ec8a546c0877e2f40acd19371abee8be98c86dd97695fa69d56b7bc21f49f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0183_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 564-A 心經註疏序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0183_X_000-mulu-2
+    span:
+    - front
+    - 271
+    - 271
+  label: 摩訶般若波羅蜜多心經註疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0183_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2933
+  label: 摩訶般若波羅蜜多心經註疏
+  type: juan
+  level: 1
+hash: sha256:0467da04ff3b266ce976fb07a1dd4252b6daebad8370743918edf3ccd31952f3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

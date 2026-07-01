@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6c0183/x/v1/juan/0
+seq: 0
+front:
+  text: 心經註疏序佛祖西來不立文字云何唄梵之書富有五千蓋不立文字恐依藤附葛者一滋言詮便墮纏結昧却性宗其五千唄梵正大闡性宗斬絕藤葛要唄梵雖繁其指歸不外心經一集心經者誠諸經統會之源也其曰不生不滅言過去未來性固存存也不垢不淨言狂愚聖哲性自惺惺也不增不減言壽殀福極性本如如也奈彼螾螾不解無始本旨妄起生滅垢淨增減諸想由是五蘊六識顛倒于中則藤葛已甚纏結已劇欲證般若是猶南馳而北轅舍樹若仲子滙唄梵五千之旨全孕以經爰為註疏註者釋彼藤葛疏者解彼纏結試讀此編是即五千餘卷之要領不立文字之祕藏則知心經乃諸經之指歸而註疏又心經之指歸也具慧照者辨諸康熙十四年冬仲下浣今釋合十題
+  hash: sha256:ae791937730095864bf35c094f9750e37ac9c5d9c4e8f238bae91cc20ba508a7
+  markers:
+  - {type: 序, offset: 0, content: No. 564-A 心經註疏序, id: KR6c0183_X_000-mulu-1, level: '1'}
+  - {type: 其他, offset: 271, content: 摩訶般若波羅蜜多心經註疏, id: KR6c0183_X_000-mulu-2, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 般若心經註疏
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0564.xml
+    old_id: X26n0564
+hash: sha256:fe761bbb368b75a81a00ede4884423c91b8ad3af4f3bc2b049912d283285638c
