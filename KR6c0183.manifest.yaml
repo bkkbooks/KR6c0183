@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0183_000.yaml, hash: 'sha256:8a4d2915e29b248ad7ff860bafb36872e6d31c5e1e154c7703dd54bfc5075aea'}
+  - {seq: 0, filename: KR6c0183_000.yaml, hash: 'sha256:d71fc09fee8d37e691fafce068a3a4fe3777c9c9c86ad52cc74aae31ac12bf86'}
   - {seq: 1, filename: KR6c0183_001.yaml, hash: 'sha256:bf926c2785fb2246557b7f3c9c00e80b4f4e2c45b25320c0bfe9a375bec4e02d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0183_000.markers.yaml, hash: 'sha256:fcfa1307089a8ca4ab7f51e4432e26d9db8a2f55d8c48294067a7b248d3db0ee'}
+  - {seq: 0, role: markers, filename: assets/KR6c0183_000.markers.yaml, hash: 'sha256:9725698806ff30950f8ec5003c6d6096ca0b321ecceabc1b63424178b4d2c342'}
   - {seq: 1, role: markers, filename: assets/KR6c0183_001.markers.yaml, hash: 'sha256:26c533956e970a69bde584bbcf331e696052b304f9b47674b30722484ae4e49a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0183_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 564-A 心經註疏序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0183_X_000-mulu-2
     span:
-    - front
+    - body
     - 271
     - 271
   label: 摩訶般若波羅蜜多心經註疏
@@ -57,7 +57,7 @@ table_of_contents:
   label: 摩訶般若波羅蜜多心經註疏
   type: juan
   level: 1
-hash: sha256:6ceb0de1a3a6645dd500ae3fe5b10861a103d6642b17035e183a17dfaa64b952
+hash: sha256:79d479dcc3feeb4bc843b92f88f8d64aa50059fd3afcd78c822cebb244e25d0d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
